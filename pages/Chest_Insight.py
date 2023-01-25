@@ -4,8 +4,6 @@ import numpy as np
 import time
 from PIL import Image
 from MedicalImage import create_model as cm
-from PIL import Image
-from PIL import Image
 import streamlit as st
 
 

@@ -1,0 +1,12 @@
+streamlit==1.16.0
+Pillow==9.4.0
+numpy==1.24.1
+torchxrayvision==0.0.39
+torch==1.13.1
+scikit-image==0.19.3
+pandas==1.5.3
+seaborn==0.12.2
+torchvision==0.14.1
+matplotlib==3.6.3
+opencv-python==4.7.0.68
+Paginator==0.5.1

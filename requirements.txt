@@ -10,3 +10,4 @@ torchvision==0.14.1
 matplotlib==3.6.3
 opencv-python==4.7.0.68
 Paginator==0.5.1
+joblib==1.2.0

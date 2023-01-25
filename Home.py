@@ -16,7 +16,7 @@ def intro():
 
     image = Image.open('MainImg.webp')
     st.image(image, caption='All Kinds of X-Ray Analysis')
-
+# added comment
 
 
     st.markdown(

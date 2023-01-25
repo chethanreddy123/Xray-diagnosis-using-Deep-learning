@@ -1,5 +1,7 @@
 import streamlit as st
 from PIL import Image   
+from MedicalImage import create_model as cm
+
 
 def intro():
     import streamlit as st

@@ -11,9 +11,7 @@ def intro():
     st.sidebar.markdown('[![Chethan-Reddy]'
                         '(https://img.shields.io/badge/Author-Chethan%20Reddy-brightgreen)]'
                         '(https://www.linkedin.com/in/chethan-reddy-0201791ba/)')
-    st.sidebar.markdown('[![Chethan-Reddy]'
-                        '(https://img.shields.io/badge/Author-Leela%20Reddy-brightgreen)]'
-                        '(https://www.linkedin.com/in/chethan-reddy-0201791ba/)') 
+
 
     image = Image.open('MainImg.webp')
     st.image(image, caption='All Kinds of X-Ray Analysis')

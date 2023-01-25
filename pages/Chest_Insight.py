@@ -21,9 +21,6 @@ st.sidebar.title('Developers Contact')
 st.sidebar.markdown('[![Chethan-Reddy]'
                     '(https://img.shields.io/badge/Author-Chethan%20Reddy-brightgreen)]'
                     '(https://www.linkedin.com/in/chethan-reddy-0201791ba/)')
-st.sidebar.markdown('[![Chethan-Reddy]'
-                    '(https://img.shields.io/badge/Author-Leela%20Reddy-brightgreen)]'
-                    '(https://www.linkedin.com/in/chethan-reddy-0201791ba/)') 
 
 
 st.markdown("\nThis app will generate impression part of an X-ray report.\nYou can upload 2 X-rays that are front view and side view of chest of the same individual.")

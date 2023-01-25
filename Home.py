@@ -1,12 +1,6 @@
 import streamlit as st
 from PIL import Image   
 
-import sys
-
-sys.path.append("MedicalImage")
-
-from MedicalImage import create_model as cm
-
 
 def intro():
     import streamlit as st
